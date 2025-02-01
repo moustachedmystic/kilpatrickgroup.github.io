@@ -1,0 +1,41 @@
+---
+title: 'The Reductive Activation of CO2 Across a Ti═Ti Double Bond: Synthetic, Structural,
+  and Mechanistic Studies'
+authors:
+- Alexander F. R. Kilpatrick
+- Jennifer Green
+- F. Geoffrey Cloke
+date: '2015-01-01'
+publishDate: '2025-02-01T21:25:34.723097Z'
+publication_types:
+- article-journal
+publication: '*Organometallics*'
+doi: 10.1021/acs.organomet.5b00315
+abstract: The reactivity of the di-titanium bis(pentalene) double-sandwich compound
+  (Pn†)2Ti2 (1), Pn† = [C8H4SiiPr3-1,42], with CO2 is investigated in detail using
+  spectroscopic, X-ray crystallographic, and computational studies. When the CO2 reaction
+  is performed at -78 °C a 1:1 adduct 4 is formed, and low temperature spectroscopic
+  measurements are consistent with a CO2 molecule bound symmetrically between two
+  Ti centres in a $μ$:$η$2,$η$2- binding mode, a structure also indicated by theory.
+  Upon warming to room temperature the coordinated CO2 is quantitatively reduced over
+  a period of minutes, to give a bis(oxo) bridged dimer 2 and the dicarbonyl complex
+  3. In situ NMR studies indicate this decomposition proceeds in a stepwise process
+  via mono(oxo) (5) and monocarbonyl (7) double-sandwich complexes, which have been
+  independently synthesised and structurally characterised. 5 is thermally unstable
+  with respect to a $μ$-O dimer in which the Ti−Ti bond has been cleaved and the pentalene
+  ligands bind in an $η$8- fashion to each formally TiIII centre. The molecular structure
+  of 7 shows a 'side-on' bound carbonyl ligand. Bonding of the double-sandwich species
+  Pn2Ti2, Pn = [C8H6] to other fragments has been investigated by density functional
+  calculations and fragment analysis, and provides insight into the CO2 reaction pathway
+  consistent with the experimentally observed intermediates. A key step in the proposed
+  mechanism is disproportionation of di-TiIII mono(oxo) species to yield di-TiII and
+  di-TiIV products. 1 forms a structurally characterised, thermally stable CS2 adduct
+  8, which shows symmetrical binding to the Ti2 unit and supports the formulation
+  of 4. The reaction of 1 with COS forms a thermally unstable 9 which undergoes scission
+  to a mono($μ$-S) mono(CO) species 10. Ph3PS is an effective sulfur transfer agent
+  for 1, enabling the synthesis of mono($μ$-S) complex 11 with a double-sandwich structure,
+  and bis($μ$-S) dimer 12 in which the Ti−Ti bond has been cleaved.
+links:
+- name: URL
+  url: https://doi.org/10.1021/acs.organomet.5b00315
+---

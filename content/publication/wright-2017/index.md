@@ -1,0 +1,35 @@
+---
+title: Controlling the Surface Hydroxyl Concentration by Thermal Treatment of Layered
+  Double Hydroxides
+authors:
+- Christopher Wright
+- Kanittika Ruengkajorn
+- Alexander F. R. Kilpatrick
+- Jean-Charles Buffet
+- Dermot O'Hare
+date: '2017-01-01'
+publishDate: '2025-02-01T21:25:34.770589Z'
+publication_types:
+- article-journal
+publication: '*Inorganic Chemistry*'
+doi: 10.1021/acs.inorgchem.7b00582
+abstract: Layered double hydroxides (LDHs) are important materials in the field of
+  catalyst supports and their surface hydroxyl functionality makes them interesting
+  candidates for supporting of well defined single site catalysts. Here we report
+  that the surface hydroxyl concentration can be controlled by thermal treatment of
+  these materials under vacuum leading to hydroxyl numbers ($α$OH) similar to that
+  of dehydroxylated silica, alumina and magnesium hydroxide. Thermal treatment of
+  [Mg0.74Al0.26(OH)2](SO4)0.1(CO3)0.03˙0.62(H2O)˙0.04(acetone) prepared by the aqueous
+  miscible organic solvent treatment method (Mg2.84Al-SO4¬ A AMO LDH) is shown to
+  yield a mixed metal oxide above 300 °C by a combination of thermogravimetric analysis
+  (TGA) powder X-ray diffraction (PXRD), BET surface area analysis and FTIR spectroscopy.
+  PXRD shows the disappearance of the characteristic LDH 00l peaks at 300 °C indicative
+  of decomposition to the layered structure, coupled with a large increase in the
+  BET surface area (95 vs 158 m2 g−1 from treatment at 275 and 300 °C respectively).
+  Titration of the surface hydroxyls with Mg(CH2Ph)2(THF)2 indicates that the hydroxyl
+  number is independent of surface area for a given treatment temperature. Treatment
+  at 450 °C under vacuum produces a mixed metal oxide material with a surface hydroxyl
+  concentration ($α$OH) of 2.14 OH nm−2 similar to the hydroxyl number ($α$OH) of
+  1.80 OH nm−2 for a sample of SiO2 dehydroxylated at 500 °C. These materials appear
+  to be suitable candidates for use as single-site organometallic catalyst supports.
+---
